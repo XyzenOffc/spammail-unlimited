@@ -1,4 +1,4 @@
-URL="https://pasukansalman.smartseller.co.id/register/resend_verification_email?email=uremail@gmail.com&name=kontol"
+URL="xyzen23anjas"
 
 INTERVAL=1
 
